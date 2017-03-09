@@ -1,6 +1,10 @@
 /* Base Application Styles */
+.footer{
+/*	color: #f22;*/
+}
+
 .rightFooter {
-	text-align: right;
+				text-align: right;
 }
 
 footer {
